@@ -1,0 +1,230 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:2:1-43:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\ed3077b783b3c0bea3f5a894d4415f32\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.khizar1556.MKVideoPlayer:mkvideoplayer:0.1.5] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\dd147f880170d1afadaa67433f82f016\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\e6485158419ada7a6054e152d04c4106\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\b4ac1db27a2800ce1c3fe4d7df759ee0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\ca3ddf0f56d22c5c4f5d12af6f760695\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\1967fa43d73f05c8a47eddd2f00c8f20\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\b9fc9c9f8227acc7e13d358fd427dca5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\0e1f4353cf941b6dcdbb2d7932aef5e0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\deaa7bae0e274db105ea10d5cd377d02\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\e2a78ab25c69117613d63715b7f7ea90\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\3d0fe2ac55b73440adcbeb75837bf7e6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\431baa451e3556efb99514fe3fb940e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\be24544f7667c6de5bc608fabc378f6d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\6a747352ed9d5c84902f22b854dad0e1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\aa83211eb19f9ab82b9357b3849072b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\1902148b001ca3a4f0926f8c25c4e926\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\eb86a129d2402067a975919410494328\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\75daa8996cc2f71e01146990421d5c7d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\e383483f48bfbc993169a2c1eb763a5e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\bd7226c55e2b9713bbad6c936b218f36\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\87532e42193913598c27f395dd1d5697\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\36eac09a276bc3b8fa39d68bcf8b0721\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\6eb11afdf6fce7503f2afbe9577ab754\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\dfe8a9bf6a7dfd6d2eb216921f983439\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\3c5384bb24cce0095c067077ac12daca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\964a37c589f67635670dc93d3aabf473\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\02a930abd11bc5bec7240be27f5c1474\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\6161560d2892696ba85fcf0b27ff4fd4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\092db045dd7f5356dd3026eb720b0681\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\fcc4f8c2f0f6b0cc3cdac2955f0ed05d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\6aa99e2df43c4cd1f109b04b5e15919a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\2159936595b928439c645e6fbe99f7ea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.khizar1556.MKVideoPlayer:ijkplayer-java:0.1.5] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\d9cff2dbbf8e330aa66e87057c474226\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.github.khizar1556.MKVideoPlayer:mkvideoplayer:0.1.5] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\dd147f880170d1afadaa67433f82f016\AndroidManifest.xml:12:5-67
+MERGED from [com.github.khizar1556.MKVideoPlayer:mkvideoplayer:0.1.5] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\dd147f880170d1afadaa67433f82f016\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:6:5-78
+MERGED from [com.github.khizar1556.MKVideoPlayer:mkvideoplayer:0.1.5] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\dd147f880170d1afadaa67433f82f016\AndroidManifest.xml:13:5-79
+MERGED from [com.github.khizar1556.MKVideoPlayer:mkvideoplayer:0.1.5] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\dd147f880170d1afadaa67433f82f016\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:7:5-75
+	android:name
+		ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:7:22-73
+application
+ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:9:5-41:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\ed3077b783b3c0bea3f5a894d4415f32\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\ed3077b783b3c0bea3f5a894d4415f32\AndroidManifest.xml:22:5-20
+MERGED from [com.github.khizar1556.MKVideoPlayer:mkvideoplayer:0.1.5] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\dd147f880170d1afadaa67433f82f016\AndroidManifest.xml:15:5-23:19
+MERGED from [com.github.khizar1556.MKVideoPlayer:mkvideoplayer:0.1.5] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\dd147f880170d1afadaa67433f82f016\AndroidManifest.xml:15:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\b4ac1db27a2800ce1c3fe4d7df759ee0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\b4ac1db27a2800ce1c3fe4d7df759ee0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\87532e42193913598c27f395dd1d5697\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\87532e42193913598c27f395dd1d5697\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\36eac09a276bc3b8fa39d68bcf8b0721\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\36eac09a276bc3b8fa39d68bcf8b0721\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\87532e42193913598c27f395dd1d5697\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.bachors.iptv.MainActivity
+ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:17:9-26:20
+	android:label
+		ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:19:13-45
+	android:theme
+		ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:20:13-56
+	android:name
+		ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:18:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.bachors.iptv.PlaylistActivity
+ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:28:9-30:77
+	android:label
+		ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:29:13-45
+	android:configChanges
+		ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:30:13-74
+	android:name
+		ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:28:19-51
+activity#com.bachors.iptv.ChannelsActivity
+ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:32:9-34:77
+	android:label
+		ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:33:13-45
+	android:configChanges
+		ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:34:13-74
+	android:name
+		ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:32:19-51
+activity#com.bachors.iptv.PlayerActivity
+ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:36:9-39:77
+	android:screenOrientation
+		ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:38:13-50
+	android:label
+		ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:37:13-45
+	android:configChanges
+		ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:39:13-74
+	android:name
+		ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml:36:19-49
+uses-sdk
+INJECTED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\ed3077b783b3c0bea3f5a894d4415f32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\ed3077b783b3c0bea3f5a894d4415f32\AndroidManifest.xml:20:5-44
+MERGED from [com.github.khizar1556.MKVideoPlayer:mkvideoplayer:0.1.5] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\dd147f880170d1afadaa67433f82f016\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.khizar1556.MKVideoPlayer:mkvideoplayer:0.1.5] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\dd147f880170d1afadaa67433f82f016\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\e6485158419ada7a6054e152d04c4106\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\e6485158419ada7a6054e152d04c4106\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\b4ac1db27a2800ce1c3fe4d7df759ee0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\b4ac1db27a2800ce1c3fe4d7df759ee0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\ca3ddf0f56d22c5c4f5d12af6f760695\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\ca3ddf0f56d22c5c4f5d12af6f760695\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\1967fa43d73f05c8a47eddd2f00c8f20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\1967fa43d73f05c8a47eddd2f00c8f20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\b9fc9c9f8227acc7e13d358fd427dca5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\b9fc9c9f8227acc7e13d358fd427dca5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\0e1f4353cf941b6dcdbb2d7932aef5e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\0e1f4353cf941b6dcdbb2d7932aef5e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\deaa7bae0e274db105ea10d5cd377d02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\deaa7bae0e274db105ea10d5cd377d02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\e2a78ab25c69117613d63715b7f7ea90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\e2a78ab25c69117613d63715b7f7ea90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\3d0fe2ac55b73440adcbeb75837bf7e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\3d0fe2ac55b73440adcbeb75837bf7e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\431baa451e3556efb99514fe3fb940e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\431baa451e3556efb99514fe3fb940e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\be24544f7667c6de5bc608fabc378f6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\be24544f7667c6de5bc608fabc378f6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\6a747352ed9d5c84902f22b854dad0e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\6a747352ed9d5c84902f22b854dad0e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\aa83211eb19f9ab82b9357b3849072b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\aa83211eb19f9ab82b9357b3849072b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\1902148b001ca3a4f0926f8c25c4e926\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\1902148b001ca3a4f0926f8c25c4e926\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\eb86a129d2402067a975919410494328\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\eb86a129d2402067a975919410494328\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\75daa8996cc2f71e01146990421d5c7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\75daa8996cc2f71e01146990421d5c7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\e383483f48bfbc993169a2c1eb763a5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\e383483f48bfbc993169a2c1eb763a5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\bd7226c55e2b9713bbad6c936b218f36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\bd7226c55e2b9713bbad6c936b218f36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\87532e42193913598c27f395dd1d5697\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\87532e42193913598c27f395dd1d5697\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\36eac09a276bc3b8fa39d68bcf8b0721\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\36eac09a276bc3b8fa39d68bcf8b0721\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\6eb11afdf6fce7503f2afbe9577ab754\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\6eb11afdf6fce7503f2afbe9577ab754\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\dfe8a9bf6a7dfd6d2eb216921f983439\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\dfe8a9bf6a7dfd6d2eb216921f983439\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\3c5384bb24cce0095c067077ac12daca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\3c5384bb24cce0095c067077ac12daca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\964a37c589f67635670dc93d3aabf473\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\964a37c589f67635670dc93d3aabf473\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\02a930abd11bc5bec7240be27f5c1474\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\02a930abd11bc5bec7240be27f5c1474\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\6161560d2892696ba85fcf0b27ff4fd4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\6161560d2892696ba85fcf0b27ff4fd4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\092db045dd7f5356dd3026eb720b0681\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\092db045dd7f5356dd3026eb720b0681\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\fcc4f8c2f0f6b0cc3cdac2955f0ed05d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\fcc4f8c2f0f6b0cc3cdac2955f0ed05d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\6aa99e2df43c4cd1f109b04b5e15919a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\6aa99e2df43c4cd1f109b04b5e15919a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\2159936595b928439c645e6fbe99f7ea\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\2159936595b928439c645e6fbe99f7ea\AndroidManifest.xml:20:5-44
+MERGED from [com.github.khizar1556.MKVideoPlayer:ijkplayer-java:0.1.5] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\d9cff2dbbf8e330aa66e87057c474226\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.khizar1556.MKVideoPlayer:ijkplayer-java:0.1.5] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\d9cff2dbbf8e330aa66e87057c474226\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DELL G5\git\IPTV-Android\app\src\main\AndroidManifest.xml
+activity#com.khizar1556.mkvideoplayer.MKPlayerActivity
+ADDED from [com.github.khizar1556.MKVideoPlayer:mkvideoplayer:0.1.5] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\dd147f880170d1afadaa67433f82f016\AndroidManifest.xml:19:9-22:50
+	android:screenOrientation
+		ADDED from [com.github.khizar1556.MKVideoPlayer:mkvideoplayer:0.1.5] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\dd147f880170d1afadaa67433f82f016\AndroidManifest.xml:22:13-47
+	android:configChanges
+		ADDED from [com.github.khizar1556.MKVideoPlayer:mkvideoplayer:0.1.5] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\dd147f880170d1afadaa67433f82f016\AndroidManifest.xml:21:13-74
+	android:name
+		ADDED from [com.github.khizar1556.MKVideoPlayer:mkvideoplayer:0.1.5] C:\Users\DELL G5\.gradle\caches\transforms-2\files-2.1\dd147f880170d1afadaa67433f82f016\AndroidManifest.xml:20:13-73
