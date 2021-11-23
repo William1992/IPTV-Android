@@ -1,4 +1,4 @@
-#Mon Nov 22 16:20:29 COT 2021
+#Tue Nov 23 14:23:12 COT 2021
 base.0=C\:\\Users\\DELL G5\\git\\IPTV-Android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
 path.1=classes.dex
 renamed.1=classes2.dex

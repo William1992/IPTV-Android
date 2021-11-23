@@ -78,7 +78,9 @@ public class PlaylistAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolde
 
     public void addAll(List<PlaylistData> semuaData) {
         for (PlaylistData data : semuaData) {
-            add(data);
+            if(!data.getTitle().toUpperCase().equals("XXX")){
+                add(data);
+            }
         }
     }
 

@@ -244,9 +244,11 @@ public class ChannelsActivity extends AppCompatActivity {
                         for (Element tr : trs) {
                             if(i > 0) {
                                 JSONObject ob = new JSONObject();
-                                ob.put("title", tr.select("td").eq(0).text());
-                                ob.put("link", tr.select("td").eq(2).select("code").eq(0).text());
-                                ar.put(ob);
+                                if(!tr.select("td").eq(0).text().toUpperCase().equals("XXX")){
+                                    ob.put("title", tr.select("td").eq(0).text());
+                                    ob.put("link", tr.select("td").eq(2).select("code").eq(0).text());
+                                    ar.put(ob);
+                                }
                             }
                             i++;
                         }
